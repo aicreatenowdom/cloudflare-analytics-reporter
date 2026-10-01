@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://aicreatenow.com/">
-    <img src="organization-logo.png" alt="AI Creations Now Software Development" width="120" height="120">
+  <a href="https://aicreatenow.com/cfanalytics.html">
+    <img src="cloudflare-analytics-headline.png" alt="AI Creations Now Cloudflare Analytics Reporter" width="900">
   </a>
 </p>
 
